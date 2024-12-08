@@ -1,7 +1,7 @@
 {
     "name": "ياسر محمود",
-    "description": "Mobile App Developer",
-    "subDescription": "Flutter & Android",
+    "description": "مطوّر تطبيقات الهاتف المحمول",
+    "subDescription": "فلاتر وأندرويد",
     "contacts": [
         {
             "tooltip": "Github",
@@ -20,7 +20,7 @@
             }
         },
         {
-            "tooltip": "LinkedIn",
+            "tooltip": "Linkedin",
             "url": "https://www.linkedin.com/in/yassermahmoud1",
             "icon": {
                 "codePoint": "0xeffb",
@@ -50,12 +50,12 @@
             "url": "https://drive.google.com/file/d/1FwaSZq_NuaZuLV4p-VWHOjUgD5mzJx2g/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "أنا ياسر محمود، خريج علوم الحاسب ومهندس برمجيات مكرّس لعملي. أمتلك خبرة واسعة في تطوير تطبيقات الهاتف المحمول، مع تركيز قوي على فلاتر وأندرويد باستخدام جافا وكوتلن. كما أنني شغوف بالبرمجة بلغة بايثون و++C، وأسعى باستمرار لاكتشاف طرق جديدة لإنشاء حلول فعّالة ومؤثرة. يجمع عملي بين الدقة التقنية وحل المشكلات الإبداعي لتقديم برامج مبتكرة تلبي احتياجات المستخدمين.",
     "experiences": [
         {
-            "role": "Offline Coordinator For DECI Program",
-            "company": "Almentor",
-            "description": "Managing DECI session with taking attendance and Helping the instructor dealing with the young students of the program and help the students to make the program as useful as possible.",
+            "role": "منسق جلسات برنامج DECI",
+            "company": "المنتور",
+            "description": "تنظيم جلسات برنامج دي سي آي مع تسجيل الحضور ومساعدة المُدرّب في التعامل مع الطلاب الشباب للبرنامج ومساعدتهم في تحقيق أقصى استفادة ممكنة.",
             "isPresent": false,
             "startYear": 2024,
             "startMonth": 1,
@@ -64,26 +64,26 @@
             "links": [
                 {
                     "url": "https://deci.gov.eg/",
-                    "display": "DECI Program"
+                    "display": "برنامج DECI"
                 }
             ]
         },
         {
-            "role": "Programming Instructor for Children",
-            "company": "Duestack Academy",
-            "description": "Teaching programming basics for children in the age from 8 to 16 where my first goal is to make the process of learning as fun and useful as possible. After each round the students worked on a project that they applied what they learnt",
+            "role": "مدرّب برمجة للأطفال",
+            "company": "أكاديمية ديوستاك",
+            "description": "تدريس أساسيات البرمجة للأطفال الذين تتراوح أعمارهم بين 8 و16 سنة، مع جعل عملية التعلم ممتعة ومفيدة قدر الإمكان. بعد كل دورة، يعمل الطلاب على مشروع يطبقون فيه ما تعلموه.",
             "startYear": 2023,
             "startMonth": 7,
             "endYear": 2024,
             "endMonth": 7
         }
     ],
-    "present": "Present",
+    "present": "حاليًا",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "name": "تطبيق Taste Finder",
+            "description": "تطبيق تيست فايندر هو تطبيق مخصص لسكان مدينة الفيوم. يوفر دليلًا شاملًا للمطاعم في المدينة ويساعد المستخدمين على استكشاف القوائم بسهولة. سواء كنت تبحث عن مقهى دافئ أو مطعم عائلي أو وجبة سريعة، يضمن تيست فايندر تجربة طعام محسّنة.",
+            "url": "https://github.com/YasserMahmoud1/taste_finder_with_flutter",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -100,21 +100,33 @@
                 {
                     "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
+                        "assetName": "assets/icons/software-development/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/kotlin.svg"
                     }
                 }
             ],
             "links": [
                 {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
+                    "url": "https://github.com/YasserMahmoud1/TasteFinder",
+                    "display": "نسخة Kotlin من المشروع"
                 }
             ]
         },
         {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "name": "تطبيق Movies Wallet",
+            "description": "تطبيق موفيز والت هو تطبيق ديناميكي يوفر منصة شاملة لاستكشاف عالم السينما باستخدام TMDB. يساعد عشاق الأفلام على استعراض مجموعة ضخمة من الأفلام وحفظ المفضلة في قاعدة بيانات محلية مخصصة.",
+            "url": "https://github.com/YasserMahmoud1/movies_wallet",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -123,42 +135,30 @@
             "screenshotPath": "assets/images/learnflow-api.png",
             "technologies": [
                 {
-                    "name": "Node.js",
+                    "name": "Flutter",
                     "icon": {
-                        "assetName": "assets/icons/software-development/nodejs.svg"
+                        "assetName": "assets/icons/software-development/flutter.svg"
                     }
                 },
                 {
-                    "name": "Express",
+                    "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/express-js.svg",
+                        "assetName": "assets/icons/software-development/dart.svg",
                         "color": "0xffffffff"
                     }
                 },
                 {
-                    "name": "TypeScript",
+                    "name": "TMDB",
                     "icon": {
-                        "assetName": "assets/icons/software-development/typescript.svg"
-                    }
-                },
-                {
-                    "name": "MongoDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mongodb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
+                        "assetName": "assets/icons/software-development/tmdb.svg"
                     }
                 }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "name": "تطبيق مصروفي",
+            "description": "مصروفي هو تطبيق مخصص لإدارة النفقات والدخل بسهولة. باستخدام SQLite، يوفر مصروفي طريقة آمنة وموثوقة لإدارة بياناتك المالية بدون اتصال بالإنترنت.",
+            "url": "https://github.com/YasserMahmoud1/Masroofy",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -175,90 +175,13 @@
                 {
                     "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
+                        "assetName": "assets/icons/software-development/dart.svg"
                     }
                 },
                 {
-                    "name": "PHP",
+                    "name": "SQLite",
                     "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
-                {
-                    "name": "Flask",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
+                        "assetName": "assets/icons/software-development/sqlite.svg"
                     }
                 }
             ]
@@ -267,7 +190,7 @@
     "languages": [
         {
             "code": "en",
-            "name": "English",
+            "name": "إنجليزي",
             "nativeName": "English",
             "icon": {
                 "assetName": "assets/icons/flags/united-states-of-america.svg"
@@ -275,7 +198,7 @@
         },
         {
             "code": "ar",
-            "name": "Arabic",
+            "name": "عربي",
             "nativeName": "العربية",
             "icon": {
                 "assetName": "assets/icons/flags/Flag_of_Egypt.svg"
@@ -283,13 +206,13 @@
         }
     ],
     "portfolio": "Portfolio",
-    "homeSectionTitle": "Home",
-    "aboutSectionTitle": "About",
-    "aboutSectionTitleAlt": "About Me",
-    "experienceSectionTitle": "Experience",
-    "projectsSectionTitle": "Projects",
-    "resume": "Resume",
-    "downloadResume": "Download resume",
-    "openUrlError": "Could not open the url",
-    "unknownLanguageError": "Language unknown"
+    "homeSectionTitle": "الرئيسية",
+    "aboutSectionTitle": "من أنا",
+    "aboutSectionTitleAlt": "تعرف عليّ",
+    "experienceSectionTitle": "الخبرات",
+    "projectsSectionTitle": "المشاريع",
+    "resume": "السيرة الذاتية",
+    "downloadResume": "تحميل السيرة الذاتية",
+    "openUrlError": "تعذر فتح الرابط",
+    "unknownLanguageError": "لغة غير معروفة"
 }

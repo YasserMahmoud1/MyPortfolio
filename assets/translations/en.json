@@ -50,7 +50,7 @@
             "url": "https://drive.google.com/file/d/1FwaSZq_NuaZuLV4p-VWHOjUgD5mzJx2g/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "I am Yasser Mahmoud, a proud Computer Science graduate and a dedicated Software Engineer. My expertise lies in mobile development, with a strong focus on Flutter and Android using Java and Kotlin. I am also passionate about coding in Python and C++, continually exploring new ways to create efficient and impactful solutions. My work combines technical precision with creative problem-solving, aiming to deliver innovative software that meets users' needs.",
     "experiences": [
         {
             "role": "Offline Coordinator For DECI Program",
@@ -81,9 +81,9 @@
     "present": "Present",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "name": "Taste Finder",
+            "description": "TasteFinder is a dedicated mobile application designed specifically for the citizens of Fayoum. It serves as a comprehensive guide to the city's culinary scene, helping users discover restaurants and explore their menus with ease. With TasteFinder, residents can find the perfect spot for their cravings and plan their meals for an enhanced dining experience. Whether you're looking for a cozy café, a family restaurant, or a quick bite, TasteFinder ensures that you make informed choices, turning every meal into a delightful journey.",
+            "url": "https://github.com/YasserMahmoud1/taste_finder_with_flutter",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -100,21 +100,33 @@
                 {
                     "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
+                        "assetName": "assets/icons/software-development/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Kotlin",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/kotlin.svg"
                     }
                 }
             ],
             "links": [
                 {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
+                    "url": "https://github.com/YasserMahmoud1/TasteFinder",
+                    "display": "The Kotlin version of the project"
                 }
             ]
         },
         {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "name": "Movies Wallet",
+            "description": "Movies Wallet is a dynamic mobile application that leverages the power of TMDB to provide users with an all-in-one platform for exploring the world of cinema. Designed for movie enthusiasts, the app allows users to browse a vast collection of films, view detailed information, and save their favorites to a personalized local database. Whether you're planning your next movie night or building a must-watch list, Movies Wallet ensures a seamless and enjoyable experience for every cinephile.",
+            "url": "https://github.com/YasserMahmoud1/movies_wallet",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -123,42 +135,30 @@
             "screenshotPath": "assets/images/learnflow-api.png",
             "technologies": [
                 {
-                    "name": "Node.js",
+                    "name": "Flutter",
                     "icon": {
-                        "assetName": "assets/icons/software-development/nodejs.svg"
+                        "assetName": "assets/icons/software-development/flutter.svg"
                     }
                 },
                 {
-                    "name": "Express",
+                    "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/express-js.svg",
+                        "assetName": "assets/icons/software-development/dart.svg",
                         "color": "0xffffffff"
                     }
                 },
                 {
-                    "name": "TypeScript",
+                    "name": "TMDB",
                     "icon": {
-                        "assetName": "assets/icons/software-development/typescript.svg"
-                    }
-                },
-                {
-                    "name": "MongoDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mongodb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
+                        "assetName": "assets/icons/software-development/tmdb.svg"
                     }
                 }
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "name": "Masroofy",
+            "description": "Masroofy is a user-friendly mobile application designed to help individuals efficiently track their expenses and income. With the power of SQLite, Masroofy offers a secure and reliable way to manage your financial data offline. Whether you want to monitor your spending habits, set savings goals, or maintain a clear overview of your finances, Masroofy provides intuitive tools and insights to empower smarter money management.",
+            "url": "https://github.com/YasserMahmoud1/Masroofy",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome",
@@ -175,90 +175,13 @@
                 {
                     "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
+                        "assetName": "assets/icons/software-development/dart.svg"
                     }
                 },
                 {
-                    "name": "PHP",
+                    "name": "SQLite",
                     "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
-                {
-                    "name": "Flask",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
+                        "assetName": "assets/icons/software-development/sqlite.svg"
                     }
                 }
             ]
